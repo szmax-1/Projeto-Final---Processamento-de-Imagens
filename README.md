@@ -39,7 +39,7 @@ Foram utilizadas ** imagens** de teste variadas, contendo diferentes configuraç
 
 O código foi desenvolvido focando na manipulação direta de matrizes `numpy`. Abaixo, o pipeline detalhado:
 
-[🚀 Acessar Código Fonte](./ProjetoFinalPDI.ipynb)
+[🚀 Acessar Código Fonte](https://github.com/szmax-1/Projeto-Final---Processamento-de-Imagens/blob/main/c%C3%B3digo/ProjetoFinalPDI.ipynb)
 
 ### Etapas do Pipeline:
 
