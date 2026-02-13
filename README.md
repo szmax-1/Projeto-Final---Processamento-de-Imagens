@@ -22,7 +22,7 @@ O desafio consiste em identificar esferas dispostas sobre uma superfície, class
 5.  **Fusão de Dados:** Lógica geométrica para eliminar falsos positivos (sobreposições e ruídos internos).
 
 ### 🔗 Links Úteis
-* **Vídeo de Apresentação:** [Clique aqui para assistir](INSIRA_SEU_LINK_AQUI)
+* **Vídeo de Apresentação:** [Clique aqui para assistir](https://youtu.be/nEgp7ryd_M4?si=ISw-WttdX29g7qhN)
 * **Dataset Original (Roboflow):** [Marble Images Challenge](https://universe.roboflow.com/zhe-fan/marble-images)
 
 ---
