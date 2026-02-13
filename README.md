@@ -39,7 +39,7 @@ Foram utilizadas ** imagens** de teste variadas, contendo diferentes configuraç
 
 O código foi desenvolvido focando na manipulação direta de matrizes `numpy`. Abaixo, o pipeline detalhado:
 
-[🚀 Acessar Código Fonte](./código.py)
+[🚀 Acessar Código Fonte](./ProjetoFinalPDI.ipynb)
 
 ### Etapas do Pipeline:
 
