@@ -1,7 +1,7 @@
 # Solução 2 - Trabalho Final de Processamento de Imagens
 
 # OBSERVAÇÃO:
-- Professor como comunicado por email, nós conseguimos implementar uma nova solução para o desafio, no qual também achamos que é mais condizente ao que foi abordado na sala de aula e com base também nas suas implementações, e o que difere da solução inicialmente enviada, é que conseguimos seguir a estrutrura de implementação que o senhor usou, que é usando numpy + skimage + matplotlib. Porém, como o prazo tinha passado decidimos enviar a solução já feita e colocar essa solução como extra. 
+- Professor como comunicado por email, nós conseguimos implementar uma nova solução para o desafio, no qual também achamos que é mais condizente ao que foi abordado na sala de aula e com base também nas suas implementações, e o que difere da solução inicialmente enviada, é que conseguimos seguir a estrutrura de implementação que o senhor usou, que é usando numpy + skimage + matplotlib. Porém, como o prazo tinha passado decidimos enviar a solução já feita e colocar essa solução como extra. Estou deixando o email no qual foi usado para entrar em contado: cezar.prataa@academico.ufs.br
 
 # ALUNOS:
 - Cézar Augusto Nascimento Dias
